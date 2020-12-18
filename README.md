@@ -1,2 +1,1 @@
-# wave-vis
-Created with CodeSandbox
+# react-audio-spectrum demo
